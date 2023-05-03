@@ -1,0 +1,357 @@
+[
+    {
+      "id": 1,
+      "name": "Giovanni Rossi",
+      "experience": 10,
+      "num_recipes": 50,
+      "likes": 1000,
+      "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+      "bio": "Giovanni Rossi is a seasoned chef with over 10 years of experience in Italian cuisine. He has created over 50 recipes that have become popular among foodies, with over 1000 likes on his social media accounts.",
+      "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    
+      
+    },
+    {
+      "id": 2,
+      "name": "Isabella Bianchi",
+      "experience": 8,
+      "num_recipes": 30,
+      "likes": 750,
+      "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Isabella Bianchi is a talented chef who specializes in fusion cuisine. With 8 years of experience, she has created 30 unique recipes that have gained over 750 likes on social media.",
+      "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    
+    },
+    {
+      "id": 3,
+      "name": "Antonio Ferrari",
+      "experience": 5,
+      "num_recipes": 20,
+      "likes": 500,
+      "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Antonio Ferrari is a young chef who is passionate about experimenting with flavors. With 5 years of experience, he has created 20 recipes that have garnered 500 likes on social media.",
+      "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    
+    },
+    {
+      "id": 4,
+      "name": "Luigi Conti",
+      "experience": 12,
+      "num_recipes": 70,
+      "likes": 1200,
+      "picture": "https://images.unsplash.com/photo-1558138838-76294be30005?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Luigi Conti is a renowned chef with over 12 years of experience in Italian and Mediterranean cuisine. He has created over 70 recipes that have been loved by foodies worldwide, with over 1200 likes on social media.",
+      "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    
+    },
+    {
+      "id": 5,
+      "name": "Valentina Russo",
+      "experience": 7,
+      "num_recipes": 25,
+      "likes": 600,
+      "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "bio": "Valentina Russo is a creative chef who specializes in plant-based cuisine. With 7 years of experience, she has created 25 unique recipes that have gained over 600 likes on social media.",
+      "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    
+    },
+    {
+      "id": 6,
+      "name": "Giuseppe Rizzo",
+      "experience": 3,
+      "num_recipes": 15,
+      "likes": 300,
+      "picture": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Giuseppe Rizzo is a budding chef who is passionate about using fresh and local ingredients. With 3 years of experience, he has created 15 recipes that have garnered 300 likes on social media.",
+        "recipe1_name": "Spaghetti Carbonara",
+            "recipe1_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "recipe1_ingredients": [
+              "1 pound spaghetti",
+              "6 ounces pancetta, diced",
+              "4 large eggs",
+              "1 cup freshly grated Pecorino Romano cheese",
+              "1/4 teaspoon freshly ground black pepper",
+              "2 tablespoons chopped fresh parsley leaves"
+            ],
+            "recipe1_cooking_method": "1. Cook spaghetti according to package directions. Reserve 1 cup of pasta water and drain spaghetti. \n2. In a large skillet over medium heat, cook pancetta until crispy. Remove from heat. \n3. In a small bowl, whisk together eggs, Pecorino Romano cheese, and black pepper. \n4. Add spaghetti and pancetta to skillet and toss to combine. \n5. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to combine. If the pasta seems dry, add reserved pasta water 1 tablespoon at a time. \n6. Garnish with chopped parsley and serve immediately."
+          },
+          {
+            "recipe2_name": "Lasagna",
+            "recipe2_image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "recipe2_ingredients": [
+              "1 pound ground beef",
+              "1/2 cup chopped onion",
+              "2 cloves garlic, minced",
+              "1 can (28 ounces) crushed tomatoes",
+              "1 can (6 ounces) tomato paste",
+              "1/4 cup chopped fresh parsley leaves",
+              "1 teaspoon salt",
+              "1/2 teaspoon dried basil",
+              "1/4 teaspoon black pepper",
+              "12 lasagna noodles, cooked and drained",
+              "2 cups ricotta cheese",
+              "2 cups shredded mozzarella cheese",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "recipe2_cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet over medium heat, cook ground beef, onion, and garlic until beef is browned and onion is tender. Drain off excess fat. \n3. Stir in crushed tomatoes, tomato paste, parsley, salt, basil, and black pepper. Simmer for 20-30 minutes or until sauce has thickened. \n4. In a 9x13 inch baking dish, layer cooked lasagna noodles, meat sauce, ricotta cheese, and shredded mozzarella cheese. Repeat layers. \n5. Sprinkle grated Parmesan cheese on top of lasagna. \n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until cheese is melted and bubbly. \n7. Let stand for 10 minutes before serving."
+          },
+          {
+            "recipe3_name": "Chicken Parmesan",
+            "recipe3_image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "recipe3_ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1/2 cup all-purpose flour",
+              "2 large eggs, beaten",
+              "1 cup Italian-style breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 cup marinara sauce",
+              "1 cup shredded mozzarella cheese",
+              "1/4 cup chopped fresh basil leaves"
+            ],
+            "recipe3_cooking_method": "1. Preheat the oven to 375°F.\n2. Place the flour in a shallow dish.\n3. In another shallow dish, beat the eggs.\n4. In a third shallow dish, mix the breadcrumbs, Parmigiano Reggiano cheese, salt, and pepper.\n5. Dredge each chicken breast in the flour, shaking off any excess.\n6. Dip each chicken breast into the beaten eggs, allowing any excess to drip off.\n7. Coat each chicken breast in the breadcrumb mixture, pressing the breadcrumbs onto the chicken to adhere.\n8. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for about 3 minutes on each side, until golden brown.\n9. Transfer the chicken breasts to a baking dish. Top each chicken breast with marinara sauce and shredded mozzarella cheese.\n10. Bake in the preheated oven for about 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.\n11. Garnish with chopped fresh basil before serving."
+      
+    }
+  ]
+  
