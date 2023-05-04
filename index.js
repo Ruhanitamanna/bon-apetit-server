@@ -7,9 +7,15 @@ const data = require('./data/data.json')
 
 app.use(cors())
 
-// app.get('/', (req, res) => {
-//     res.send('Hello World!')
-//   })
+app.use(function(req, res, next) {
+    res.setHeader("Content-Security-Policy", "default-src 'none'; script-src 'self' https://vercel.live;");
+    next();
+  });
+  
+
+app.get('/', (req, res) => {
+    res.send('Hello World!')
+  })
 
   app.get('/data', (req, res)=>{
     res.send(data);
