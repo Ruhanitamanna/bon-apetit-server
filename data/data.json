@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "name": "Giovanni Rossi",
       "experience": 10,
       "num_recipes": 50,
@@ -59,7 +59,7 @@
       
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Isabella Bianchi",
       "experience": 8,
       "num_recipes": 30,
@@ -116,7 +116,7 @@
     
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Antonio Ferrari",
       "experience": 5,
       "num_recipes": 20,
@@ -173,7 +173,7 @@
     
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Luigi Conti",
       "experience": 12,
       "num_recipes": 70,
@@ -230,7 +230,7 @@
     
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Valentina Russo",
       "experience": 7,
       "num_recipes": 25,
@@ -287,7 +287,7 @@
     
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Giuseppe Rizzo",
       "experience": 3,
       "num_recipes": 15,

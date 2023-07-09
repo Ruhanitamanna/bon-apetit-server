@@ -21,6 +21,13 @@ app.get('/', (req, res) => {
     res.send(data);
   })
 
+  app.get('/data/:id', (req,res)=>{
+    const id = req.params.id
+    const selectedRecipe = data.find(r => r.id === id)
+    res.send(selectedRecipe)
+    
+  })
+
   app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
   })
